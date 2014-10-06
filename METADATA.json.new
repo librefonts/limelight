@@ -1,0 +1,42 @@
+{
+  "name": "Limelight",
+  "designer": "Nicole Fally",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 24948,
+  "fonts": [
+    {
+      "name": "Limelight",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Limelight-Regular-TTF.ttf",
+      "postScriptName": "Limelight-Regular",
+      "fullName": "Limelight Regular",
+      "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Limelight.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Limelight",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Limelight-Regular.ttf",
+      "postScriptName": "Limelight-Regular",
+      "fullName": "Limelight Regular",
+      "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Limelight.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.\rThis license is copied below, and is also available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Limelight",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Limelight-Regular-OTF.ttf",
+      "postScriptName": "Limelight-Regular",
+      "fullName": "Limelight-Regular",
+      "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Limelight.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.\rThis license is copied below, and is also available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-05-25"
+}
